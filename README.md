@@ -1,2 +1,2 @@
 # DuploDuino
-![alt text](https://github.com/phsoftware/DuploDuino/blob/master/Logo.png?raw=true)
+![alt text](https://github.com/phsoftware/DuploDuino/blob/main/Logo.png?raw=true)
